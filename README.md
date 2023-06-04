@@ -1,6 +1,5 @@
-### Credit Risk Classification
+# Credit Risk Classification
 - Module 20 Challenge
-
 
 ## Credit Risk Analysis Report
 ### Overview of the analysis
@@ -13,7 +12,13 @@
 Below you will find snapshots of logistic regression models for both the original data and a randomly oversampled dataset. 
 
 * Logistic Regression Model with Original Data
+"C:\Users\emich\Desktop\penn data science bootcamp\Module20_Assignment\credit-risk-classification\images\original_classreport.png"
+"C:\Users\emich\Desktop\penn data science bootcamp\Module20_Assignment\credit-risk-classification\images\balancedaccuracy_original.png"
+
 * Logistic Regression Model with Randomly Oversampled Data
+"C:\Users\emich\Desktop\penn data science bootcamp\Module20_Assignment\credit-risk-classification\images\resampled_classreport.png"
+"C:\Users\emich\Desktop\penn data science bootcamp\Module20_Assignment\credit-risk-classification\images\balancedaccuracy_resampled.png"
+
 ### Summary
 Analysis dipslays that collected data can be effectively used to train and test the Machine Learning Classifcation Model. For better predictions, solving the imbalance sampling issue is required. Randomly oversampling the data helps to get higher balanced accuracy and recall scores. Incorrect predictions can raise some issues:
 - False positives (users will be flagged as risky, but they are actually healthy)
