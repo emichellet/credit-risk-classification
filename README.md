@@ -12,12 +12,12 @@
 Below you will find snapshots of logistic regression models for both the original data and a randomly oversampled dataset. 
 
 * Logistic Regression Model with Original Data
-![image](C:\Users\emich\Desktop\penn data science bootcamp\Module20_Assignment\credit-risk-classification\images\original_classreport.png)
-![image](C:\Users\emich\Desktop\penn data science bootcamp\Module20_Assignment\credit-risk-classification\images\balancedaccuracy_original.png)
+![original_classreport](https://github.com/emichellet/credit-risk-classification/assets/118394753/c9af6007-b9cc-4e40-b327-ae4832f25c1a)
+![balancedaccuracy_original](https://github.com/emichellet/credit-risk-classification/assets/118394753/bc577acf-2aad-4c64-a99f-47b92d2078a0)
 
 * Logistic Regression Model with Randomly Oversampled Data
-![image](C:\Users\emich\Desktop\penn data science bootcamp\Module20_Assignment\credit-risk-classification\images\resampled_classreport.png)
-![image](C:\Users\emich\Desktop\penn data science bootcamp\Module20_Assignment\credit-risk-classification\images\balancedaccuracy_resampled.png)
+![resampled_classreport](https://github.com/emichellet/credit-risk-classification/assets/118394753/a444aaa8-be8e-4459-8719-a230dff2623d)
+![balancedaccuracy_resampled](https://github.com/emichellet/credit-risk-classification/assets/118394753/4aa9c01b-a852-40bd-9e4a-f2d98bc59919)
 
 ### Summary
 Analysis dipslays that collected data can be effectively used to train and test the Machine Learning Classifcation Model. For better predictions, solving the imbalance sampling issue is required. Randomly oversampling the data helps to get higher balanced accuracy and recall scores. Incorrect predictions can raise some issues:
